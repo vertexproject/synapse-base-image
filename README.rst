@@ -1,3 +1,9 @@
+DEPRECATION NOTICE
+------------------
+
+These images will not be used to build Synapse containers for version 0.1.0 or greater. This will only be used for
+building 0.0.x docker images.
+
 Synapse Base Images
 -------------------
 
