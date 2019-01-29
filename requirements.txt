@@ -9,7 +9,7 @@ PyYAML==3.13
 # Delayed import
 psycopg2==2.7.5
 # Code style checks
-pycodestyle==2.4.0
+pycodestyle==2.5.0
 # Test related packages
 coverage==4.5.1
 codecov==2.0.15
